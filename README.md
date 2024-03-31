@@ -11,9 +11,7 @@
 
 - 📫 How to reach me **harshchitaliya010@gmail.com**
 
-- 📄 Know about my experiences [file:///E:/WEB PROGRAMMING/EXP 2/index (1).html](file:///E:/WEB PROGRAMMING/EXP 2/index (1).html)
-
-- file:///E:/WEB PROGRAMMING/EXP 2/index (1).html **I'm into books, stock markets, business, cycling, ML, and research! 📚💼🚴‍♂️📈🔬**
+-**I'm into books, stock markets, business, cycling, ML, and research! 📚💼🚴‍♂️📈🔬**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
