@@ -37,7 +37,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshchi19&" alt="harshchi19" /></p>
 
 <div align="center">
-  <h2>🐍 My Contributions(Snake is Eating my Contributions 🐍</h2>
+  <h2>🐍 My Contributions(Snake is Eating my Contributions) 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/harshchi19/harshchi19/output/github-contribution-grid-snake.svg" />
   
