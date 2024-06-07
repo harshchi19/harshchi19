@@ -39,8 +39,13 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshchi19&theme=vue"/>
 </p>
 
-<h2 align="center">✍️Random Dev Quote</h2>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+<p align="center">
+<h2 align="center"> ✍️Random Dev Quote</h2>
+</p>
+<p align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote" alt="Quote">
+</p>
+
 
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -55,6 +60,8 @@
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshchi19&" alt="harshchi19" />
   </p>
+  
+  ![Harsh's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=harshchi19)
 </div>
 
 <div align="center">
